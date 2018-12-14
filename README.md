@@ -15,14 +15,12 @@ An implementation of a simple-compiler ( scanner and parser ) using lex and yacc
     - ./mylang.out
 
 - Running
-    running the mylang executable will give you an interactive interpreter.
-    you can use print to the standard output using "print expr;" command;
-    you can exit out of the interpreter using the "exit;" command. 
+    - running the mylang executable will give you an interactive interpreter.
+    - you can use print to the standard output using "print expr;" command;
+    - you can exit out of the interpreter using the "exit;" command. 
 
 - Language
-    variables:  are one letter long [a-z and A-Z]
-                stores floating-point numbers
-    
-    operations: you can perform +, -, *, / on the variables
+    - variables:  are one letter long [a-z and A-Z], stores floating-point numbers
+    - operations: you can perform +, -, *, / on the variables
 
 
